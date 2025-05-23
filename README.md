@@ -1,6 +1,6 @@
 # NestJS CRUD API with TypeORM and PostgreSQL
 
-Read full article [here]().
+Read full article [here](https://www.djamware.com/post/682fe3426ac70d0cc285f612/nestjs-crud-api-with-typeorm-and-postgresql).
 
 ## Description
 
